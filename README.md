@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Samantha
 
-<!--
-**SamSmith801/SamSmith801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building SaaS for local media (AdSpace) and auto dealerships (FixedOpsHQ).
 
-Here are some ideas to get you started:
+## What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[AdSpace](https://ad-space.io)** -- Marketplace where small businesses can browse and book local media ad placements (alt-weeklies, radio, magazines) without talking to a salesperson. OpenTable for local advertising.
+
+**[FixedOpsHQ](https://fixedopshq.com)** -- Real-time KPI dashboard for car dealership service departments. Turns scattered DMS data into daily accountability scoreboards.
+
+## Background
+
+- 15+ years across hospitality, media, government, and tech (Tesla, Sundance, Salt Lake City Weekly, SLC Mayor's Office)
+- Built and ran events from 200-person premieres to 20,000+ attendee festivals
+- Founder of Mind The Gap Festival; Chapter Chair, Women in Music Utah
+- BS Business Administration, Marketing -- Western Governors University
+
+## Stack
+
+Next.js 15 / React 19 / Neon PostgreSQL / Vercel
